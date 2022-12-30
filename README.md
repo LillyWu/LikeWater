@@ -9,3 +9,13 @@ The Top Level Directories: **STEM, EDUCATION, and MUSIC**, are professions that 
 The directories under **OR** are new SPACES that I would like to start or continue exploration.
 
 
+# Other related resources
+Detailed Bio is at Github Page: 
+Technology blogs are post in MEDIUM:
+Linkedln:
+Google Scholar: 
+
+
+
+
+
