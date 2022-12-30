@@ -1,14 +1,16 @@
 # LikeWater
 
 ## Objective
-This is a repository for ***Fun, fUn, and fuN!***
+This is a repository for ***Fun, fUn, and fuN!*** 
+
+“人生像一首歌，我们应该享受过程，而不只是在意最后两个音符。”
 
 ## Structure
 The Top Level Directories: **STEM, EDUCATION, and MUSIC**, are professions that I target to develop. 
 
 The directories under **OR** are new SPACES that I would like to start or continue the exploration.
 
-The directory **PM** is for management based on the concept of Agile and OKR (Too personal, it can be skipped while wandering this repository). 
+The directory **PM** is for management based on the concept of Agile and OKR (Too personal, it can be skipped while your wandering). 
 
 ## Other related resources
 1. Detailed Bio is at [Github Page](https://lillywu.github.io/)
