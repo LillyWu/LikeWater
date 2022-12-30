@@ -8,9 +8,7 @@ The Top Level Directories: **STEM, EDUCATION, and MUSIC**, are professions that 
 
 The directories under **OR** are new SPACES that I would like to start or continue exploration.
 
-
-## Timeline
-
+The directory **PM** is for management based on the concept of Agile and OKR (Too personal, it can be skipped while wandering this repository). 
 
 ## Other related resources
 1. Detailed Bio is at [Github Page](https://lillywu.github.io/)
