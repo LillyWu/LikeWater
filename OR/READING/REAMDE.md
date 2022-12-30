@@ -22,3 +22,9 @@ This direcotry shows the books or online courses I am reading or about to read.
 | Book  |   |   |   |   |
 | Book  |   |   |   |   |
 | Book  |   |   |   |   |
+
+
+## Search for books to read
+1. [Opensyllabus](https://opensyllabus.org/)
+2. Recommendations in [Zhihu](https://www.zhihu.com/question/20619895)
+3. [Good Reads](https://www.goodreads.com/)
