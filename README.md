@@ -6,7 +6,7 @@ This is a repository for ***Fun, fUn, and fuN!***
 ## Structure
 The Top Level Directories: **STEM, EDUCATION, and MUSIC**, are professions that I target to develop. 
 
-The directories under **OR** are new SPACES that I would like to start or continue exploration.
+The directories under **OR** are new SPACES that I would like to start or continue the exploration.
 
 The directory **PM** is for management based on the concept of Agile and OKR (Too personal, it can be skipped while wandering this repository). 
 
