@@ -6,7 +6,7 @@ This is a repository for ***Fun, fUn, and fuN!***
 “人生像一首歌，我们应该享受过程，而不只是在意最后两个音符。”
 
 ## Structure
-The Top Level Directories: **STEM, EDUCATION, and MUSIC**, are professions that I target to develop. 
+The Top Level Directories: **STEM and EDUCATION**, are professions that I target to develop. 
 
 The directories under **OR** are new SPACES that I would like to start or continue the exploration.
 
