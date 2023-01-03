@@ -1,6 +1,8 @@
 # Federated Learning
 
 ## What is Federated Learning
+Federated learning was firstly introduced by Google in 2016. 
+
 
 ## Development of Federated Learning
 
@@ -20,3 +22,8 @@
 ### Research Directions
 
 ## Practise of Federated Learning
+
+
+
+#### Reference
+[What is federated learning](https://research.ibm.com/blog/what-is-federated-learning)
