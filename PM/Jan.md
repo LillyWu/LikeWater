@@ -15,5 +15,5 @@ Week 2
 | Catalog  | Key Results |  Review | Retrospective | Actions  |
 |---|---|---|---|---|
 | STEM  | 1. Federated Learning  2. 工程，无尽的前沿 |   |   |   |
-| EDUCATION | 1. gather information about cloud computing |  |   |  |
-| OR  | 1. Running, Dancing, and Gym 2. order books 3. 坂本龙一 or Guns,Germs, and Steels 4. Book books for 2023|  |  |   |
+| EDUCATION | 1. Gather information about cloud computing |  |   |  |
+| OR  | 1. Running, Dancing, and Gym 2. Order books 3. 坂本龙一 or Guns,Germs, and Steels|  |  |   |
