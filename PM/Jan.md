@@ -14,6 +14,17 @@ Week 2
 
 | Catalog  | Key Results |  Review | Retrospective | Actions  |
 |---|---|---|---|---|
+| STEM  | 1. Federated Learning  2. 工程，无尽的前沿 |  None |   |   |
+| EDUCATION | 1. Gather information about cloud computing | None |   |  |
+| OR  | 1. Running, Dancing, and Gym 2. Order books 3. 坂本龙一 or Guns,Germs, and Steels| 1. Running, Dancing, and 刘耕宏 2. Guns, Germs, and Steels 3. Surfskate |  |   |
+
+Many activities with colleagues. Need more time with myself.
+
+
+Week 3
+
+| Catalog  | Key Results |  Review | Retrospective | Actions  |
+|---|---|---|---|---|
 | STEM  | 1. Federated Learning  2. 工程，无尽的前沿 |   |   |   |
 | EDUCATION | 1. Gather information about cloud computing |  |   |  |
-| OR  | 1. Running, Dancing, and Gym 2. Order books 3. 坂本龙一 or Guns,Germs, and Steels|  |  |   |
+| OR  | 1. Running, Dancing, and Gym 2. Surfstake 3. Guns,Germs, and Steels|  |  |   |
