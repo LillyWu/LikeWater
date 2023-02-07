@@ -7,7 +7,7 @@ This direcotry shows the books or online courses I am reading or about to read.
 | Type  |  Name |  Start_Time | End_Time  |  Thoughts |
 |---|---|---|---|---|
 | Book  |  《世界文明史》威尔·杜兰 |   |   |   |
-| Book  |  《经济学原理》曼昆 |   |   |   |
+| Book  |  《经济学原理》曼昆 | 2023.02  |   |   |
 | Book  |  《道德形而上学原理》康德|   |   |   |
 | Book  |  《政治学》亚里士多德|   |   |   |
 | Book  |  《正义论》罗尔斯 |   |   |   |
@@ -19,6 +19,10 @@ This direcotry shows the books or online courses I am reading or about to read.
 | Book  |  《进化心理学》巴斯 |   |   |   |
 | Book  |  《从一到无穷大》伽莫夫|   |   |   |
 | Book  |  《万物简史》比尔布莱森|   |   |   |
+| Book  | 《Guns, Germs, and Steel》 Jared Diamond | 2023.01.08  |   |   |
+| Book  |  《失明症漫记》 |   |   |   |
+| Book  | 《全球通史》  |   |   |   |
+| Book  |   |   |   |   |
 | Book  |   |   |   |   |
 | Book  |   |   |   |   |
 | Book  |   |   |   |   |

@@ -28,3 +28,5 @@ Week 3
 | STEM  | 1. Federated Learning  2. 工程，无尽的前沿 |   |   |   |
 | EDUCATION | 1. Gather information about cloud computing |  |   |  |
 | OR  | 1. Running, Dancing, and Gym 2. Surfstake 3. Guns,Germs, and Steels|  |  |   |
+
+=== Chinese New Year ===

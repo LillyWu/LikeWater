@@ -28,8 +28,16 @@ The questions to answer:
 ## Technology
 
 ## Books
+| Type  |  Name |  Start_Time | End_Time  |  Thoughts |
+|---|---|---|---|---|
+| CS | 分布式系统 | 2023.02  |   |   |
+| |  |   |   |   |
 
 ## Online Courses
+| Type  |  Name |  Start_Time | End_Time  |  Thoughts |
+|---|---|---|---|---|
+| Mathematics | Convex optimization | 2023.02  |   |   |
+| CS | CSAPP | 2023.02  |   |   |
 
 ## Blogs
 
