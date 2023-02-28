@@ -38,3 +38,7 @@ def ax_constraint_rule(model, i):
 model.AxbConstraints = pyo.Constraint(model.I, rule=ax_constraint_rule)
     
     
+
+instance = model.create_instance()
+opt = pyo.SolverFactory('glpk')
+opt.solve(instance)

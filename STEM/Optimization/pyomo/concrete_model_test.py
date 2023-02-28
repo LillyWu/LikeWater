@@ -19,4 +19,8 @@ model.constraints = pyo.Constraint(expr=3*model.x[1] + 4*model.x[2] >= 1)
 opt = pyo.SolverFactory('glpk')
 opt.solve(model)
 
+print(model.Obj)
+print(model.x)
+print(model.constraints)
+
  
