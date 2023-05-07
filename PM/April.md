@@ -7,9 +7,9 @@
 
 
 Lesson learnt: 
-1. Key results are not well defined. They should be measurable. 
+1. Key results are not well defined. They should be measurable. And keep this goal in mind all the time.
 2. When planning, you should consider the time reserved for friends. 
 3. Too emotional this month. Need to learn how to return rational very quickly and focus on your own goals. 
 4. Keep patient and good communication when you have conflict with others. Always be kind!
-5. Need to learn how to make reasonable plans and stressed yourself too much.
+5. Need to learn how to make reasonable plans and not stressed yourself too much.
 

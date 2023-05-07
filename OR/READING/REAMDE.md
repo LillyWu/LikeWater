@@ -17,10 +17,10 @@ This direcotry shows the books or online courses I am reading or about to read.
 | Book  |  《艺术的故事》贡布里希 |   |   |   |
 | Book  |  《公正》迈克尔·桑德尔|   |   |   |
 | Book  |  《进化心理学》巴斯 |   |   |   |
-| Book  |  《从一到无穷大》伽莫夫|   |   |   |
+| Book  |  《从一到无穷大》伽莫夫| 2023.04.16  |   |   |
 | Book  |  《万物简史》比尔布莱森|   |   |   |
 | Book  | 《Guns, Germs, and Steel》 Jared Diamond | 2023.01.08  |   |   |
-| Book  |  《失明症漫记》 |   |   |   |
+| Book  |  《失明症漫记》 | 2023.05.07  |   |   |
 | Book  | 《全球通史》  |   |   |   |
 | Book  |   |   |   |   |
 | Book  |   |   |   |   |
